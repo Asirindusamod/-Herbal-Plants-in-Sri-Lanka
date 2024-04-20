@@ -22,7 +22,7 @@ To run this app on your Android device or emulator, follow these steps:
 3. **Add Repository URL:**
    In the "URL" field, paste the URL of your GitHub repository:
    ```
-   https://github.com/Manilka99/Herbal-Plants-in-Sri-Lanka-Android.git
+   https://github.com/Asirindusamod/-Herbal-Plants-in-Sri-Lanka.git
    ```
 
 4. **Specify Project Location:**
