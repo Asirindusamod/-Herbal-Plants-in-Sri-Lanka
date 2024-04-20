@@ -23,7 +23,8 @@
             android:scaleType="centerCrop"
             android:src="@drawable/as_2_logo"
             app:layout_constraintStart_toStartOf="parent"
-            tools:layout_editor_absoluteY="0dp" />
+            tools:layout_editor_absoluteY="0dp"
+            tools:ignore="MissingConstraints" />
 
         <TextView
             android:id="@+id/text_plant_name"
